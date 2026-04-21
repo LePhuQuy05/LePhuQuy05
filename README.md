@@ -51,12 +51,3 @@ I focus on the **next generation of intelligent systems** – moving beyond simp
 - Building a portfolio that demonstrates **end‑to‑end AI engineering**, from model fine‑tuning to cloud deployment.
 
 ---
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LePhuQuy05&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LePhuQuy05&layout=compact&langs_count=8&theme=radical"/>
-</p>
-
----
